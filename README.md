@@ -195,3 +195,14 @@ The project demonstrates how data analysis can be used to:
 Data Analyst | Finance & Business Intelligence
 
 Interested in Data Analytics, FinTech, Payments, Investment & Operations.
+
+📊 Dashboard Preview
+![XYZP Hospitality H1 Revenue Performance Dashboard](./Dashboard%20Screenshots.pbix.jpeg)
+
+The dashboard provides a visual overview of H1 revenue performance across business units, highlighting monthly revenue trends, revenue contribution by stream, and key performance indicators.
+
+📁 Project Files
+
+* - 📊 [Excel Analysis Workbook](./XYZP%20Hospitality%20Revenue%20Performance%20Dashboard.xlsx.xlsx) — Dataset, analysis, pivot tables, calculations, and supporting work.
+- 📄 [Dashboard PDF](./XYZP_Hospitality_H1_Revenue_Performance_Dashboard.PDF_copy.pdf) — Final dashboard export.
+- 📸 [Power BI Dashboard Preview](./Dashboard%20Screenshots.pbix.jpeg) — Preview of the completed dashboard.
