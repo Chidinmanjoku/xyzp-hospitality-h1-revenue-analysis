@@ -204,5 +204,5 @@ The dashboard provides a visual overview of H1 revenue performance across busine
 📁 Project Files
 
 * - 📊 [Excel Analysis Workbook](./XYZP%20Hospitality%20Revenue%20Performance%20Dashboard.xlsx.xlsx) — Dataset, analysis, pivot tables, calculations, and supporting work.
-- 📄 [Dashboard PDF](./XYZP_Hospitality_H1_Revenue_Performance_Dashboard.PDF_copy.pdf) — Final dashboard export.
+- 📄 [Dashboard PDF](./XYZP_Hospitality_H1_Revenue_Performance_Dashboard.PDF_copy.pdf?raw=true) — Final dashboard export.
 - 📸 [Power BI Dashboard Preview](./Dashboard%20Screenshots.pbix.jpeg) — Preview of the completed dashboard.
